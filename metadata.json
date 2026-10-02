@@ -1,0 +1,6 @@
+{
+  "name": "Chroma & Grid: Design Odyssey",
+  "description": "Um RPG retro em mundo aberto isométrico com masmorras modernas focadas em puzzles de design gráfico, inventário dinâmico e batalhas por turnos baseadas em princípios visuais.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
